@@ -38,7 +38,7 @@ To get started with Sumz on your local machine, follow these installation steps:
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using npm:
 
    ```
-   cd blogify
+   cd sumz
    npm install
    ```
 
