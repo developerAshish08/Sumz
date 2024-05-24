@@ -32,7 +32,7 @@ To get started with Sumz on your local machine, follow these installation steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Shivek-Sharma/sumz.git
+   git clone https://github.com/developerAshish08/sumz.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies using npm:
